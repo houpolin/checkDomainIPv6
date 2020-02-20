@@ -1,0 +1,1 @@
+# checkDomainIPv6
